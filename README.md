@@ -25,10 +25,3 @@
 - **Python 3**: Linguagem principal.  
 - **Google Colab**  
   
----
-
-## ▶️ **Como executar?**  
-1. Certifique-se de ter o [Python 3](https://www.python.org/) instalado.  
-2. Execute o script no terminal:  
-   ```bash  
-   python jogo_adivinhacao.py  
