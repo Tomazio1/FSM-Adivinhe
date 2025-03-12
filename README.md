@@ -1,5 +1,5 @@
 # FSM-Adivinhe
-# Jogo de Adivinhação de Números em Python  
+## Jogo de Adivinhação de Números em Python  
 
 🔢 **Um jogo que usa um agente inteligente com uma máquina de estado em Python**  
 
