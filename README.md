@@ -23,7 +23,7 @@
 
 ## ⚙️ **Tecnologias e ferramentas utilizadas**  
 - **Python 3**: Linguagem principal.  
-- **Goofle Colab**  
+- **Google Colab**  
   
 ---
 
